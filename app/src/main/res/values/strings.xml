@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UpstoxAssignment</string>
+    <string name="currency_rupee">₹ %1$s</string>
+</resources>
